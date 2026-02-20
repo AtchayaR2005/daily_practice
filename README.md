@@ -1,1 +1,4 @@
-# daily_practice
+class java
+public static void main(String args[]){
+System.out.println("Hello");
+}
