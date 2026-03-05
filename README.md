@@ -1,4 +1,7 @@
+import java.util.Scanner;
 class java
 public static void main(String args[]){
-System.out.println("Hello");
+Scanner scan = new Scanner(System.in);
+scan atchu = scan.nextInt();
+System.out.println("0");
 }
